@@ -10,6 +10,7 @@ bash
 To deploy CryptoMessenger run the following command.
 
 ```bash
+  git clone https://github.com/Karthik-v202/CryptoMessenger.git
   cd CryptoMessenger
   python3 cryptomessenger.py
 ```
